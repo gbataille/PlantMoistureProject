@@ -1,3 +1,5 @@
 .pio/
 .ccls-cache/
 *.sch-bak
+*.pyc
+__pycache__/
